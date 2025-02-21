@@ -26,9 +26,13 @@ A fully interactive React.js quiz platform built with Tailwind CSS and IndexedDB
 ## How to Use the App
 
 1️ Start the quiz.
+<br>
 2️ Select an answer (or type for integer-based questions).
+<br>
 3️ Receive instant feedback ✅ ❌
+<br>
 4️ Move to the next question (or auto-advance after 30 seconds).
+<br>
 5️ View your score at the end and retry if desired.
 
 
@@ -45,10 +49,9 @@ A fully interactive React.js quiz platform built with Tailwind CSS and IndexedDB
 Copy this command and paste your windows CDM
 
 ```
-git clone https://github.com/Programming-Hero-Web-Course4/b10a12-client-side-sbsajibsx.git
+git clone https://github.com/GolamRabbaniSajib/quiz-app.git
 
 cd quiz-app
-
 ```
 
 <br>
@@ -57,7 +60,6 @@ cd quiz-app
 
 ```
 npm install
-
 ```
 
 <br>
@@ -66,10 +68,13 @@ npm install
 
 ```
 npm run dev
-
 ```
 
 The app will run at:
 
 ` http://localhost:5173/ `
+
+
+## Link
+Live: ( https://quiz-app-eta-jet.vercel.app/ )
 
