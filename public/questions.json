@@ -1,0 +1,96 @@
+{
+  "multipleChoice": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "Which language runs in a web browser?",
+      "options": ["Java", "C", "Python", "JavaScript"],
+      "answer": "JavaScript"
+    },
+    {
+      "id": 3,
+      "question": "What does CSS stand for?",
+      "options": [
+        "Central Style Sheets",
+        "Cascading Style Sheets",
+        "Cascading Simple Sheets",
+        "Cars SUVs Sailboats"
+      ],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "id": 4,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "id": 5,
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "J.K. Rowling", "Mark Twain", "Ernest Hemingway"],
+      "answer": "Harper Lee"
+    },
+    {
+      "id": 6,
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Gold", "Oxygen", "Silver", "Iron"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 7,
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "id": 8,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "South Korea", "India"],
+      "answer": "Japan"
+    },
+    {
+      "id": 9,
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Quartz"],
+      "answer": "Diamond"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT a programming language?",
+      "options": ["Python", "Java", "HTML", "C++"],
+      "answer": "HTML"
+    }
+  ],
+  "integerType": [
+    {
+      "id": 11,
+      "question": "What is 25 + 30?",
+      "answer": 55
+    },
+    {
+      "id": 12,
+      "question": "How many continents are there on Earth?",
+      "answer": 7
+    },
+    {
+      "id": 13,
+      "question": "What is the square root of 64?",
+      "answer": 8
+    },
+    {
+      "id": 14,
+      "question": "How many days are there in a leap year?",
+      "answer": 366
+    },
+    {
+      "id": 15,
+      "question": "How many bones are there in the human body?",
+      "answer": 206
+    }
+  ]
+}
